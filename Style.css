@@ -1,15 +1,28 @@
+h1{
+    font-family: "Abadi MT Condensed Light";
+    alignment: center;
+    background: burlywood;
+    text-decoration-color: aquamarine;
+    color-rendering: optimizeQuality;
+    color: black;
+}
+
+
+
 h2 {
     margin-bottom: 70px;
     background: aquamarine;
     font-family: Centaur;
 }
+
+
 body {
     background: coral;
 }
 
 
 
-img{
+img {
     border-color: bisque;
-    border-radius: ;
+    border-radius: 20px;
 }
