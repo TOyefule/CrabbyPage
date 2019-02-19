@@ -1,28 +1,43 @@
+
+
+
+
+
 h1{
     font-family: "Abadi MT Condensed Light";
-    alignment: center;
-    background: burlywood;
+    text-alignment: center;
+    color: Olivedrab;
+    padding: 20px;
+    background: lightblue;
     text-decoration-color: aquamarine;
-    color-rendering: optimizeQuality;
-    color: black;
+    width: 400px;
+    margin: 15px auto;
 }
 
+div{
 
+}
 
-h2 {
-    margin-bottom: 70px;
-    background: aquamarine;
+p {
+    /*margin-bottom: 70px;*/
     font-family: Centaur;
 }
 
+.directions {
+    border-color: bisque;
+    background: Grey;
+}
 
 body {
     background: coral;
 }
 
-
-
 img {
-    border-color: bisque;
-    border-radius: 20px;
+    float: Left;
+    width: ;
+
+    border-radius: 50%;
 }
+
+table, th,
+
